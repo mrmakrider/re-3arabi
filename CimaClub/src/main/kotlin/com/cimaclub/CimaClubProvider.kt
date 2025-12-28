@@ -94,7 +94,7 @@ class CimaClub : MainAPI() {
             val seasons = document.select("section.allseasonss .Small--Box a")
 
             if (seasons.isNotEmpty()) {
-                seasons.apmap { seasonLink ->
+                seasons.amap { seasonLink ->
                     val seasonUrl = seasonLink.attr("href")
                     val seasonDoc = if (seasonUrl == url) document else app.get(seasonUrl).document
                     val seasonNumText = seasonLink.selectFirst(".epnum span")?.nextSibling()?.toString()?.trim()
@@ -161,7 +161,7 @@ class CimaClub : MainAPI() {
         val document = app.get(watchUrl).document
 
         // ▶️ روابط المشاهدة (Embed)
-        document.select("ul#watch li").apmap {
+        document.select("ul#watch li").amap {
             val embedUrl = it.attr("data-watch")
             if (embedUrl.isNotBlank()) {
                 Log.d(tag, "📺 Embed server: $embedUrl")
@@ -170,9 +170,9 @@ class CimaClub : MainAPI() {
         }
 
         // ⬇️ روابط التحميل المباشر
-        document.select(".ServersList.Download a").apmap { element ->
+        document.select(".ServersList.Download a").amap { element ->
             val downloadUrl = element.attr("href")?.trim()
-            if (downloadUrl.isNullOrBlank()) return@apmap
+            if (downloadUrl.isNullOrBlank()) return@amap
 
             val name = element.selectFirst(".text span")?.text()?.trim() ?: "رابط تحميل"
             val linkType = if (downloadUrl.contains(".m3u8", true)) {

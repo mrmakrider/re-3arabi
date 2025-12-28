@@ -190,7 +190,7 @@ class CimaNow : MainAPI() {
             }
 
             val episodes = if (seasons.isNotEmpty()) {
-                seasons.apmap { (seasonUrl, seasonNum) ->
+                seasons.amap { (seasonUrl, seasonNum) ->
                     val seasonDoc = app.get(seasonUrl).document
                     seasonDoc.select("ul#eps li a").mapNotNull { epEl ->
                         newEpisode(epEl.attr("abs:href")) {

@@ -164,7 +164,7 @@ class MyCima : MainAPI() {
     ): Boolean {
         val doc = app.get(data).document
 
-        doc.select("ul#watch li").apmap { li ->
+        doc.select("ul#watch li").amap { li ->
             val encodedUrl = li.attr("data-watch")
             if (encodedUrl.contains("/play/")) {
                 val base64String = encodedUrl.substringAfter("/play/").trimEnd('/')
@@ -181,7 +181,7 @@ class MyCima : MainAPI() {
             }
         }
 
-        doc.select("div#downloads a").apmap { a ->
+        doc.select("div#downloads a").amap { a ->
             val url = a.attr("href")
             val name = a.text().trim()
             callback.invoke(
