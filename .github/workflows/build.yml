@@ -37,6 +37,6 @@ jobs:
       with:
         name: plugins
         path: |
-          **/build/outputs/**/*.cs3
-          **/build/outputs/**/*.zip
+          **/build/*.cs3
+          **/build/*.zip
         if-no-files-found: warn
