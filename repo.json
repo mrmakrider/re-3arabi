@@ -1,0 +1,8 @@
+{
+  "name": "Re-3arabi Plugins",
+  "description": "Arabic CloudStream plugins including Prestige",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/mrmakrider/re-3arabi/builds/plugins.json"
+  ]
+}
