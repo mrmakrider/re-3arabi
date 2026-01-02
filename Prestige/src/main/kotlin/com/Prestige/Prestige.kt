@@ -190,14 +190,15 @@ class Prestige : MainAPI() {
                 val m3u8Url = match.groupValues[1]
                 Log.d(name, "Found m3u8: $m3u8Url")
                 callback(
-                    ExtractorLink(
+                    newExtractorLink(
                         source = name,
                         name = "$name - HLS",
                         url = m3u8Url,
-                        referer = playUrl,
-                        quality = Qualities.Unknown.value,
-                        isM3u8 = true
-                    )
+                        type = ExtractorLinkType.M3U8
+                    ) {
+                        this.referer = playUrl
+                        this.quality = Qualities.Unknown.value
+                    }
                 )
             }
             
@@ -206,14 +207,15 @@ class Prestige : MainAPI() {
                 val mp4Url = match.groupValues[1]
                 Log.d(name, "Found mp4: $mp4Url")
                 callback(
-                    ExtractorLink(
+                    newExtractorLink(
                         source = name,
                         name = "$name - MP4",
                         url = mp4Url,
-                        referer = playUrl,
-                        quality = Qualities.Unknown.value,
-                        isM3u8 = false
-                    )
+                        type = ExtractorLinkType.VIDEO
+                    ) {
+                        this.referer = playUrl
+                        this.quality = Qualities.Unknown.value
+                    }
                 )
             }
         }
