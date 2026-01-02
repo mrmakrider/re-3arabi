@@ -10,7 +10,7 @@ import com.lagradost.cloudstream3.utils.ExtractorLink
 
 class Prestige : MainAPI() {
     override var mainUrl = "https://hp.brstej.com"
-    override var name = "برستيج"
+    override var name = "Mak Prestige"
     override var lang = "ar"
     override val hasMainPage = true
     override val supportedTypes = setOf(TvType.Movie, TvType.TvSeries)
