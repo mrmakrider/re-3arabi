@@ -1,7 +1,14 @@
 rootProject.name = "CloudstreamPlugins"
 
 // This file sets what projects are included. All new projects should get automatically included unless specified in "disabled" variable.
-val disabled = listOf<String>()
+val disabled = listOf<String>(
+    "cinemana",        // Broken: missing com.github.recloudstream:cloudstream:pre-release
+    "CimaNowProvider", // May have issues
+    "MyCimaProvider",  // May have issues
+    "Faselhd",         // May have issues
+    "CimaClub",        // May have issues
+    "Arabseed"         // May have issues
+)
 
 File(rootDir, ".").eachDir { dir ->
     if (!disabled.contains(dir.name) && File(dir, "build.gradle.kts").exists()) {
