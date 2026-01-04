@@ -1,0 +1,466 @@
+[
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hp.brstej.com&sz=128",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mrmakrider/re-3arabi",
+    "fileSize": 26653,
+    "status": 1,
+    "language": "ar",
+    "authors": ["mrmakrider"],
+    "tvTypes": ["Movie", "TvSeries"],
+    "version": 1,
+    "internalName": "3iskPlugin",
+    "url": "https://raw.githubusercontent.com/mrmakrider/re-3arabi/builds/3isk.cs3",
+    "name": "3isk"
+  }
+,
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hp.brstej.com&sz=128",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mrmakrider/re-3arabi",
+    "fileSize": 12728,
+    "status": 1,
+    "language": "ar",
+    "authors": ["mrmakrider"],
+    "tvTypes": ["Movie", "TvSeries"],
+    "version": 1,
+    "internalName": "Aia2tv 2Plugin",
+    "url": "https://raw.githubusercontent.com/mrmakrider/re-3arabi/builds/Aia2tv 2.cs3",
+    "name": "Aia2tv 2"
+  }
+,
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hp.brstej.com&sz=128",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mrmakrider/re-3arabi",
+    "fileSize": 19339,
+    "status": 1,
+    "language": "ar",
+    "authors": ["mrmakrider"],
+    "tvTypes": ["Movie", "TvSeries"],
+    "version": 1,
+    "internalName": "Aia2tvPlugin",
+    "url": "https://raw.githubusercontent.com/mrmakrider/re-3arabi/builds/Aia2tv.cs3",
+    "name": "Aia2tv"
+  }
+,
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hp.brstej.com&sz=128",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mrmakrider/re-3arabi",
+    "fileSize": 22898,
+    "status": 1,
+    "language": "ar",
+    "authors": ["mrmakrider"],
+    "tvTypes": ["Movie", "TvSeries"],
+    "version": 1,
+    "internalName": "AkwamPlugin",
+    "url": "https://raw.githubusercontent.com/mrmakrider/re-3arabi/builds/Akwam.cs3",
+    "name": "Akwam"
+  }
+,
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hp.brstej.com&sz=128",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mrmakrider/re-3arabi",
+    "fileSize": 23607,
+    "status": 1,
+    "language": "ar",
+    "authors": ["mrmakrider"],
+    "tvTypes": ["Movie", "TvSeries"],
+    "version": 1,
+    "internalName": "Anim3rbPlugin",
+    "url": "https://raw.githubusercontent.com/mrmakrider/re-3arabi/builds/Anim3rb.cs3",
+    "name": "Anim3rb"
+  }
+,
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hp.brstej.com&sz=128",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mrmakrider/re-3arabi",
+    "fileSize": 19255,
+    "status": 1,
+    "language": "ar",
+    "authors": ["mrmakrider"],
+    "tvTypes": ["Movie", "TvSeries"],
+    "version": 1,
+    "internalName": "AnimeiatPlugin",
+    "url": "https://raw.githubusercontent.com/mrmakrider/re-3arabi/builds/Animeiat.cs3",
+    "name": "Animeiat"
+  }
+,
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hp.brstej.com&sz=128",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mrmakrider/re-3arabi",
+    "fileSize": 70898,
+    "status": 1,
+    "language": "ar",
+    "authors": ["mrmakrider"],
+    "tvTypes": ["Movie", "TvSeries"],
+    "version": 1,
+    "internalName": "AnimercoPlugin",
+    "url": "https://raw.githubusercontent.com/mrmakrider/re-3arabi/builds/Animerco.cs3",
+    "name": "Animerco"
+  }
+,
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hp.brstej.com&sz=128",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mrmakrider/re-3arabi",
+    "fileSize": 30486,
+    "status": 1,
+    "language": "ar",
+    "authors": ["mrmakrider"],
+    "tvTypes": ["Movie", "TvSeries"],
+    "version": 1,
+    "internalName": "AnimewitcherPlugin",
+    "url": "https://raw.githubusercontent.com/mrmakrider/re-3arabi/builds/Animewitcher.cs3",
+    "name": "Animewitcher"
+  }
+,
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hp.brstej.com&sz=128",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mrmakrider/re-3arabi",
+    "fileSize": 27077,
+    "status": 1,
+    "language": "ar",
+    "authors": ["mrmakrider"],
+    "tvTypes": ["Movie", "TvSeries"],
+    "version": 1,
+    "internalName": "ArabseedPlugin",
+    "url": "https://raw.githubusercontent.com/mrmakrider/re-3arabi/builds/Arabseed.cs3",
+    "name": "Arabseed"
+  }
+,
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hp.brstej.com&sz=128",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mrmakrider/re-3arabi",
+    "fileSize": 23080,
+    "status": 1,
+    "language": "ar",
+    "authors": ["mrmakrider"],
+    "tvTypes": ["Movie", "TvSeries"],
+    "version": 1,
+    "internalName": "BristegePlugin",
+    "url": "https://raw.githubusercontent.com/mrmakrider/re-3arabi/builds/Bristege.cs3",
+    "name": "Bristege"
+  }
+,
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hp.brstej.com&sz=128",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mrmakrider/re-3arabi",
+    "fileSize": 40660,
+    "status": 1,
+    "language": "ar",
+    "authors": ["mrmakrider"],
+    "tvTypes": ["Movie", "TvSeries"],
+    "version": 1,
+    "internalName": "CeePlugin",
+    "url": "https://raw.githubusercontent.com/mrmakrider/re-3arabi/builds/Cee.cs3",
+    "name": "Cee"
+  }
+,
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hp.brstej.com&sz=128",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mrmakrider/re-3arabi",
+    "fileSize": 14232,
+    "status": 1,
+    "language": "ar",
+    "authors": ["mrmakrider"],
+    "tvTypes": ["Movie", "TvSeries"],
+    "version": 1,
+    "internalName": "CimaClubPlugin",
+    "url": "https://raw.githubusercontent.com/mrmakrider/re-3arabi/builds/CimaClub.cs3",
+    "name": "CimaClub"
+  }
+,
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hp.brstej.com&sz=128",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mrmakrider/re-3arabi",
+    "fileSize": 17247,
+    "status": 1,
+    "language": "ar",
+    "authors": ["mrmakrider"],
+    "tvTypes": ["Movie", "TvSeries"],
+    "version": 1,
+    "internalName": "CimaLightPlugin",
+    "url": "https://raw.githubusercontent.com/mrmakrider/re-3arabi/builds/CimaLight.cs3",
+    "name": "CimaLight"
+  }
+,
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hp.brstej.com&sz=128",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mrmakrider/re-3arabi",
+    "fileSize": 27321,
+    "status": 1,
+    "language": "ar",
+    "authors": ["mrmakrider"],
+    "tvTypes": ["Movie", "TvSeries"],
+    "version": 1,
+    "internalName": "CimaNowProviderPlugin",
+    "url": "https://raw.githubusercontent.com/mrmakrider/re-3arabi/builds/CimaNowProvider.cs3",
+    "name": "CimaNowProvider"
+  }
+,
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hp.brstej.com&sz=128",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mrmakrider/re-3arabi",
+    "fileSize": 23970,
+    "status": 1,
+    "language": "ar",
+    "authors": ["mrmakrider"],
+    "tvTypes": ["Movie", "TvSeries"],
+    "version": 1,
+    "internalName": "CimatnPlugin",
+    "url": "https://raw.githubusercontent.com/mrmakrider/re-3arabi/builds/Cimatn.cs3",
+    "name": "Cimatn"
+  }
+,
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hp.brstej.com&sz=128",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mrmakrider/re-3arabi",
+    "fileSize": 40709,
+    "status": 1,
+    "language": "ar",
+    "authors": ["mrmakrider"],
+    "tvTypes": ["Movie", "TvSeries"],
+    "version": 1,
+    "internalName": "EgydeadPlugin",
+    "url": "https://raw.githubusercontent.com/mrmakrider/re-3arabi/builds/Egydead.cs3",
+    "name": "Egydead"
+  }
+,
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hp.brstej.com&sz=128",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mrmakrider/re-3arabi",
+    "fileSize": 19265,
+    "status": 1,
+    "language": "ar",
+    "authors": ["mrmakrider"],
+    "tvTypes": ["Movie", "TvSeries"],
+    "version": 1,
+    "internalName": "EishqPlugin",
+    "url": "https://raw.githubusercontent.com/mrmakrider/re-3arabi/builds/Eishq.cs3",
+    "name": "Eishq"
+  }
+,
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hp.brstej.com&sz=128",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mrmakrider/re-3arabi",
+    "fileSize": 35185,
+    "status": 1,
+    "language": "ar",
+    "authors": ["mrmakrider"],
+    "tvTypes": ["Movie", "TvSeries"],
+    "version": 1,
+    "internalName": "FaselhdPlugin",
+    "url": "https://raw.githubusercontent.com/mrmakrider/re-3arabi/builds/Faselhd.cs3",
+    "name": "Faselhd"
+  }
+,
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hp.brstej.com&sz=128",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mrmakrider/re-3arabi",
+    "fileSize": 24724,
+    "status": 1,
+    "language": "ar",
+    "authors": ["mrmakrider"],
+    "tvTypes": ["Movie", "TvSeries"],
+    "version": 1,
+    "internalName": "KrmzyPlugin",
+    "url": "https://raw.githubusercontent.com/mrmakrider/re-3arabi/builds/Krmzy.cs3",
+    "name": "Krmzy"
+  }
+,
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hp.brstej.com&sz=128",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mrmakrider/re-3arabi",
+    "fileSize": 25347,
+    "status": 1,
+    "language": "ar",
+    "authors": ["mrmakrider"],
+    "tvTypes": ["Movie", "TvSeries"],
+    "version": 1,
+    "internalName": "LodynetPlugin",
+    "url": "https://raw.githubusercontent.com/mrmakrider/re-3arabi/builds/Lodynet.cs3",
+    "name": "Lodynet"
+  }
+,
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hp.brstej.com&sz=128",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mrmakrider/re-3arabi",
+    "fileSize": 32494,
+    "status": 1,
+    "language": "ar",
+    "authors": ["mrmakrider"],
+    "tvTypes": ["Movie", "TvSeries"],
+    "version": 1,
+    "internalName": "MyCimaProviderPlugin",
+    "url": "https://raw.githubusercontent.com/mrmakrider/re-3arabi/builds/MyCimaProvider.cs3",
+    "name": "MyCimaProvider"
+  }
+,
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hp.brstej.com&sz=128",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mrmakrider/re-3arabi",
+    "fileSize": 22330,
+    "status": 1,
+    "language": "ar",
+    "authors": ["mrmakrider"],
+    "tvTypes": ["Movie", "TvSeries"],
+    "version": 1,
+    "internalName": "PrestigePlugin",
+    "url": "https://raw.githubusercontent.com/mrmakrider/re-3arabi/builds/Prestige.cs3",
+    "name": "Prestige"
+  }
+,
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hp.brstej.com&sz=128",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mrmakrider/re-3arabi",
+    "fileSize": 28597,
+    "status": 1,
+    "language": "ar",
+    "authors": ["mrmakrider"],
+    "tvTypes": ["Movie", "TvSeries"],
+    "version": 1,
+    "internalName": "ReplaymatchPlugin",
+    "url": "https://raw.githubusercontent.com/mrmakrider/re-3arabi/builds/Replaymatch.cs3",
+    "name": "Replaymatch"
+  }
+,
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hp.brstej.com&sz=128",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mrmakrider/re-3arabi",
+    "fileSize": 26243,
+    "status": 1,
+    "language": "ar",
+    "authors": ["mrmakrider"],
+    "tvTypes": ["Movie", "TvSeries"],
+    "version": 1,
+    "internalName": "Shahid4uPlugin",
+    "url": "https://raw.githubusercontent.com/mrmakrider/re-3arabi/builds/Shahid4u.cs3",
+    "name": "Shahid4u"
+  }
+,
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hp.brstej.com&sz=128",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mrmakrider/re-3arabi",
+    "fileSize": 21061,
+    "status": 1,
+    "language": "ar",
+    "authors": ["mrmakrider"],
+    "tvTypes": ["Movie", "TvSeries"],
+    "version": 1,
+    "internalName": "TopcinemaPlugin",
+    "url": "https://raw.githubusercontent.com/mrmakrider/re-3arabi/builds/Topcinema.cs3",
+    "name": "Topcinema"
+  }
+,
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hp.brstej.com&sz=128",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mrmakrider/re-3arabi",
+    "fileSize": 22519,
+    "status": 1,
+    "language": "ar",
+    "authors": ["mrmakrider"],
+    "tvTypes": ["Movie", "TvSeries"],
+    "version": 1,
+    "internalName": "TuniflixPlugin",
+    "url": "https://raw.githubusercontent.com/mrmakrider/re-3arabi/builds/Tuniflix.cs3",
+    "name": "Tuniflix"
+  }
+,
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hp.brstej.com&sz=128",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mrmakrider/re-3arabi",
+    "fileSize": 21490,
+    "status": 1,
+    "language": "ar",
+    "authors": ["mrmakrider"],
+    "tvTypes": ["Movie", "TvSeries"],
+    "version": 1,
+    "internalName": "WecimaPlugin",
+    "url": "https://raw.githubusercontent.com/mrmakrider/re-3arabi/builds/Wecima.cs3",
+    "name": "Wecima"
+  }
+,
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hp.brstej.com&sz=128",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mrmakrider/re-3arabi",
+    "fileSize": 44228,
+    "status": 1,
+    "language": "ar",
+    "authors": ["mrmakrider"],
+    "tvTypes": ["Movie", "TvSeries"],
+    "version": 1,
+    "internalName": "WitanimePlugin",
+    "url": "https://raw.githubusercontent.com/mrmakrider/re-3arabi/builds/Witanime.cs3",
+    "name": "Witanime"
+  }
+,
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hp.brstej.com&sz=128",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mrmakrider/re-3arabi",
+    "fileSize": 72094,
+    "status": 1,
+    "language": "ar",
+    "authors": ["mrmakrider"],
+    "tvTypes": ["Movie", "TvSeries"],
+    "version": 1,
+    "internalName": "YoutubePlugin",
+    "url": "https://raw.githubusercontent.com/mrmakrider/re-3arabi/builds/Youtube.cs3",
+    "name": "Youtube"
+  }
+,
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hp.brstej.com&sz=128",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mrmakrider/re-3arabi",
+    "fileSize": 38473,
+    "status": 1,
+    "language": "ar",
+    "authors": ["mrmakrider"],
+    "tvTypes": ["Movie", "TvSeries"],
+    "version": 1,
+    "internalName": "cinemanaPlugin",
+    "url": "https://raw.githubusercontent.com/mrmakrider/re-3arabi/builds/cinemana.cs3",
+    "name": "cinemana"
+  }
+,
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hp.brstej.com&sz=128",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mrmakrider/re-3arabi",
+    "fileSize": 23839,
+    "status": 1,
+    "language": "ar",
+    "authors": ["mrmakrider"],
+    "tvTypes": ["Movie", "TvSeries"],
+    "version": 1,
+    "internalName": "eseekPlugin",
+    "url": "https://raw.githubusercontent.com/mrmakrider/re-3arabi/builds/eseek.cs3",
+    "name": "eseek"
+  }
+]
